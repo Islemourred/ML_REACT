@@ -22,3 +22,9 @@ dist-ssr
 *.njsproj
 *.sln
 *.sw?
+
+backend/ml mini prijet/*
+!backend/ml mini prijet/min_project_final(1).ipynb
+!backend/ml mini prijet/rulesapp.pkl
+!backend/ml mini prijet/rulesfp.pkl
+__pycache__
